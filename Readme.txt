@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Kapoor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://parthkapoor.netlify.app)
+- 🔭 I’m currently working on [my portfolio](https://nerdparth.github.io/my-portfolio/)
 
 - 🌱 I’m currently learning **computer science**
 
